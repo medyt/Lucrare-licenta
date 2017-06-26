@@ -1,0 +1,12 @@
+C:\Users\Andone\Desktop\Licenta\FishingAplication\FishingAplication\bin\Debug\FishingAplication.exe.config
+C:\Users\Andone\Desktop\Licenta\FishingAplication\FishingAplication\bin\Debug\FishingAplication.exe
+C:\Users\Andone\Desktop\Licenta\FishingAplication\FishingAplication\bin\Debug\FishingAplication.pdb
+C:\Users\Andone\Desktop\Licenta\FishingAplication\FishingAplication\obj\Debug\FishingAplication.csprojResolveAssemblyReference.cache
+C:\Users\Andone\Desktop\Licenta\FishingAplication\FishingAplication\obj\Debug\FishingAplication.Form1.resources
+C:\Users\Andone\Desktop\Licenta\FishingAplication\FishingAplication\obj\Debug\FishingAplication.Properties.Resources.resources
+C:\Users\Andone\Desktop\Licenta\FishingAplication\FishingAplication\obj\Debug\FishingAplication.csproj.GenerateResource.Cache
+C:\Users\Andone\Desktop\Licenta\FishingAplication\FishingAplication\obj\Debug\FishingAplication.exe
+C:\Users\Andone\Desktop\Licenta\FishingAplication\FishingAplication\obj\Debug\FishingAplication.pdb
+C:\Users\Andone\Desktop\Facultate\an3 semestru2\Licenta\4\Fishing Aplication\FishingAplication\FishingAplication\bin\Debug\FishingAplication.exe.config
+C:\Users\Andone\Desktop\Facultate\an3 semestru2\Licenta\4\Fishing Aplication\FishingAplication\FishingAplication\obj\Debug\FishingAplication.exe
+C:\Users\Andone\Desktop\Facultate\an3 semestru2\Licenta\4\Fishing Aplication\FishingAplication\FishingAplication\obj\Debug\FishingAplication.pdb
